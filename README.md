@@ -2,7 +2,7 @@
 
 A powerful and flexible React-based dynamic form generator that creates forms from JSON schemas. Built with TypeScript, React, and modern web technologies.
 
-![Dynamic Form Builder Demo](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&q=80&w=2072)
+![Dynamic Form Builder Demo](https://res.cloudinary.com/dl7zgwx4o/image/upload/fl_preserve_transparency/v1741644685/Screenshot_2025-03-11_034002_kvyzxn.jpg?_s=public-apps)
 
 ## 🚀 Features
 
@@ -28,7 +28,7 @@ A powerful and flexible React-based dynamic form generator that creates forms fr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/dynamic-form-builder.git
+git clone [https://github.com/yourusem-builder.gitrname/dynamic-for](https://github.com/AmanSagar0607/Dynamic-Form-Builder)
 ```
 
 2. Navigate to the project directory:
@@ -102,15 +102,11 @@ The project follows a component-based architecture with a focus on:
    - Challenge: Implementing dynamic nested sections while maintaining state
    - Solution: Created a recursive rendering system with proper type checking
 
-2. **Drag and Drop Implementation**
-   - Challenge: Handling complex nested structure reordering
-   - Solution: Utilized DND Kit's advanced features and maintained proper state updates
-
-3. **Form Validation**
+2. **Form Validation**
    - Challenge: Real-time validation for nested fields
    - Solution: Implemented a recursive validation system with proper error handling
 
-4. **Dark Mode Integration**
+3. **Dark Mode Integration**
    - Challenge: Ensuring smooth transitions and proper styling
    - Solution: Leveraged Tailwind's dark mode with CSS transitions
 
