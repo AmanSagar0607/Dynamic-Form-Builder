@@ -28,7 +28,7 @@ A powerful and flexible React-based dynamic form generator that creates forms fr
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/yourusem-builder.gitrname/dynamic-for](https://github.com/AmanSagar0607/Dynamic-Form-Builder)
+git clone https://github.com/AmanSagar0607/Dynamic-Form-Builder
 ```
 
 2. Navigate to the project directory:
